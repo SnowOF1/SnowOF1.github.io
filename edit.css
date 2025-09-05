@@ -29,7 +29,7 @@
 .xbox .trigger {
   width: 88px;
   height: 121px;
-  background: url(xbox-assets/trigger.svg);
+  background: url(trigger.svg);
   opacity: 0;
 }
 
@@ -187,7 +187,7 @@
 
 .xbox .stick {
   position: absolute;
-  background: url(xbox-assets/stick.svg);
+  background: url(stick.svg);
   background-position: -85px 0;
   height: 83px;
   width: 83px;
